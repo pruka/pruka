@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Halil</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate frontend and backend developer from Turkey</h3>
 
 <p align="center"> <img src="https://raw.githubusercontent.com/itsferdiardiansa/itsferdiardiansa/master/icons/developer.gif" /> </p>
 
