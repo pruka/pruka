@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Halil</h1>
-<h3 align="center">A passionate frontend and backend developer from Turkey</h3>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Hi+👋,+I'm+Halil;+Click+image+to+join+our+server)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=A+passionate+frontend+and+backend+developer+from+Turkey;+Click+image+to+join+our+server)
+
 
 <p align="center"> <img src="https://raw.githubusercontent.com/itsferdiardiansa/itsferdiardiansa/master/icons/developer.gif" /> </p>
 
