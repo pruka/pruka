@@ -15,11 +15,8 @@
 
 
 <p align="center">
-<a href="https://linkedin.com/in/halil-barak-6392b221b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="halil-barak-6392b2" height="30" width="40" /></a>
-</p>
-
-<p align="center">
-<a href="t.me/botcuhalil" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/halil-barak-6392b221b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="halil-barak-6392b2" height="40" width="40" /></a>
+<a href="t.me/botcuhalil" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" height="40" width="40" /></a>
 </p>
 
 <p align="center">
