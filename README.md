@@ -19,6 +19,10 @@
 </p>
 
 <p align="center">
+<a href="t.me/botcuhalil" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" height="30" width="40" /></a>
+</p>
+
+<p align="center">
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"><b> Languages and Tools:</b>
 </p>
 
